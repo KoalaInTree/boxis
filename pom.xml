@@ -6,7 +6,15 @@
 
     <groupId>com.djcao</groupId>
     <artifactId>boxis</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>boxis-biz</module>
+        <module>boxis-dao</module>
+        <module>boxisproviders</module>
+        <module>boxis-web</module>
+        <module>boxis-service</module>
+    </modules>
 
 
 </project>

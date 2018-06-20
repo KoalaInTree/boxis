@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="boxis-biz" />
+        <module name="boxis-dao" />
+        <module name="boxis-providers" />
+        <module name="boxis-service" />
+        <module name="boxis-web" />
+        <module name="boxisproviders" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="boxis" target="1.5" />
+      <module name="boxis-biz" target="1.7" />
+      <module name="boxis-dao" target="1.7" />
+      <module name="boxis-providers" target="1.7" />
+      <module name="boxis-service" target="1.7" />
+      <module name="boxis-web" target="1.7" />
+      <module name="boxisproviders" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

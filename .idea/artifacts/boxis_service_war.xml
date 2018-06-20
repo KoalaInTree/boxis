@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="boxis-service:war">
+    <output-path>$PROJECT_DIR$/boxis-service/target</output-path>
+    <root id="archive" name="boxis-service.war">
+      <element id="artifact" artifact-name="boxis-service:war exploded" />
+    </root>
+  </artifact>
+</component>

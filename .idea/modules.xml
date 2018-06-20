@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/boxis.iml" filepath="$PROJECT_DIR$/boxis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boxis-biz/boxis-biz.iml" filepath="$PROJECT_DIR$/boxis-biz/boxis-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boxis-dao/boxis-dao.iml" filepath="$PROJECT_DIR$/boxis-dao/boxis-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boxis-providers/boxis-providers.iml" filepath="$PROJECT_DIR$/boxis-providers/boxis-providers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boxis-service/boxis-service.iml" filepath="$PROJECT_DIR$/boxis-service/boxis-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boxis-web/boxis-web.iml" filepath="$PROJECT_DIR$/boxis-web/boxis-web.iml" />
     </modules>
   </component>
 </project>

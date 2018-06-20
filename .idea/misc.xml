@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/boxis-biz" />
+    <file type="web" url="file://$PROJECT_DIR$/boxis-dao" />
+    <file type="web" url="file://$PROJECT_DIR$/boxis-providers" />
+    <file type="web" url="file://$PROJECT_DIR$/boxis-service" />
+    <file type="web" url="file://$PROJECT_DIR$/boxis-web" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>

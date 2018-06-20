@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="boxis-dao:war">
+    <output-path>$PROJECT_DIR$/boxis-dao/target</output-path>
+    <root id="archive" name="boxis-dao.war">
+      <element id="artifact" artifact-name="boxis-dao:war exploded" />
+    </root>
+  </artifact>
+</component>

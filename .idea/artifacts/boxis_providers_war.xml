@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="boxis-providers:war">
+    <output-path>$PROJECT_DIR$/boxisproviders/target</output-path>
+    <root id="archive" name="boxis-providers.war">
+      <element id="artifact" artifact-name="boxis-providers:war exploded" />
+    </root>
+  </artifact>
+</component>
